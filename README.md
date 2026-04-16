@@ -1,2 +1,5 @@
-# .github
-Perfil organización S&amp;M en GitHub
+# S&M en Github
+
+Solicitudes y contacto: git@sm-services.es
+
+----
